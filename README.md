@@ -11,7 +11,7 @@ It's me, Khaleel Gibran. You've probably never heard of me. And I've never thoug
 - 💬 Ask me about HTML, CSS, JS, Node.js, some Vue, donuts, Blender 2.79 and my Twitter username.
 - 📫 How to reach me: 
 
-<a href="https://twitter.com/khalby786"><kbd>Twitter</kbd></a> <a href="mailto:khalby786@gmail.com"><kbd>Email</kbd></a> <a onclick="alert('khalby786#1531')"><kbd>Discord</kbd></a> <a href="https://khaleelgibran.com"><kbd>More...</kbd></a>
+<a href="https://twitter.com/khalby786"><kbd>Twitter</kbd></a> <a href="mailto:khalby786@gmail.com"><kbd>Email</kbd></a> <a href="javascript:alert('khalby786#1531')"><kbd>Discord</kbd></a> <a href="https://khaleelgibran.com"><kbd>More...</kbd></a>
 
 - 😄 Pronouns: He, him, donut and definitely not an 'it'.
 - ⚡ Fun fact: I love donuts. I really love donuts. 
