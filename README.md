@@ -1,6 +1,6 @@
 ## TO ALL THE ALIENS FROM EARTH
 
-*I am from Mars! I am inevitable.*
+*I am from Mars!*
 
 It's me, Khaleel Gibran. You've probably never heard of me. And I've never thought of writing a README for myself. Usually READMEs are written for applications and softwares, but here I am writing a README about me. READ me. And you cannot star this repo, even if you click the <kbd>Star</kbd> button.
 
