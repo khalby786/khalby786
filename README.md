@@ -1,4 +1,4 @@
-![To all the aliens from Earth, I'm Khaleel Gibran](https://github.com/khalby786/khalby786/blob/master/header.png?raw=true)
+![](https://github.com/khalby786/khalby786/blob/master/header.png?raw=true)
 
 *I am from Mars!*
 
