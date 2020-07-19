@@ -1,4 +1,4 @@
-![To all the aliens from Earth, I'm Khaleel Gibran](/header.png)
+![To all the aliens from Earth, I'm Khaleel Gibran](./header.png)
 
 *I am from Mars!*
 
