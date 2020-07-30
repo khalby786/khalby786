@@ -1,45 +1,15 @@
 ![](https://github.com/khalby786/khalby786/blob/master/header.png?raw=true)
 
-*I am from Mars!*
+<div align="center">
+ <h1>Khaleel Gibran 🍩</h1>
+ <br><br>
+ <p>A thirteen-year-old web developer from India who loves 🍩.
+</div>
 
-It's me, Khaleel Gibran. You've probably never heard of me. And I've never thought of writing a README for myself. Usually READMEs are written for applications and softwares, but here I am writing a README about me. READ me. And you cannot star this repo, even if you click the <kbd>Star</kbd> button.
 
-- 🔭 I’m currently working on Jsoning and whole lot of other stuff.
-- 🌱 I’m currently learning React, Vue and Typescript.
-- 👯 I’m looking to collaborate on maintaining repos made with JS.
-- 🤔 I’m looking for help with currently nothing.
-- 💬 Ask me about HTML, CSS, JS, Node.js, some Vue, donuts, Blender 2.79 and my Twitter username.
-- 📫 How to reach me: 
+## Technologies I Work With
 
-<a href="https://twitter.com/khalby786"><kbd>Twitter</kbd></a> <a href="mailto:khalby786@gmail.com"><kbd>Email</kbd></a> <a href="javascript:alert('khalby786#1531')"><kbd>Discord</kbd></a> <a href="https://khaleelgibran.com"><kbd>More...</kbd></a>
-
-- 😄 Pronouns: He, him, donut and definitely not an 'it'.
-- ⚡ Fun fact: I love donuts. I really love donuts. 
- 
-Support my projects by buying me a donut at https://buymeacoffee.com/khaleelgibran.
-
-<details>
-  
-  <summary>I'm a thirteen year-old web developer (I'm a student!) and I can create websites and projects with...</summary>
-
-  * HTML
-  * CSS
-  * Javascript
-  * Node.js - I am obsessed with Node. Really obsessed. And Express is my next best friend.
-  * Vue - I just finished learning basics of Vue, now to move on to Advanced Vue! YAAY!
-</details>
-
-<details>
-  <summary>I am in the process of constantly learning new things, and I am currently learning...</summary>
-
-  * HTML - like I learned about `<base>` tag last week.
-  * CSS - `@media` property
-  * JS - there's something called `Object.hasOwnProperty(obj)`
-  * Node.js - Express middleware
-  * Vue - Vuex and advanced Vue
-  * React - this thing's really cool but I prefer Vue over React
-  * Typescript - nothing to say about this
-</details>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px"><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px"
 
 I randomly post random tweets and fleets on [Twitter](https://twitter.com/khalby786), and sometimes useful tweets. GitHub is where I am right now, so make sure to star **all** my repos and eventually follow me *if* you liked them :). The [Glitch Support Forum](https://support.glitch.com) is where I hang out very much often. Discord (khalby786#1531) is much better than all the other chat applications out there. And a bigger and better README about reading me can be found at https://khaleelgibran.com.
 
