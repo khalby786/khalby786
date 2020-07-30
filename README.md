@@ -8,7 +8,7 @@
 
 ### Technologies I Work With
 
-<div align="center>
+<div align="center">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px"><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px"><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" width="40px"><img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" width="40px">
 </div>
 
