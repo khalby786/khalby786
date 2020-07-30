@@ -4,7 +4,8 @@
  <h1>Khaleel Gibran 🍩</h1>
  <p>A thirteen-year-old web developer from India who loves 🍩.
  <p><a href="https://khaleelgibran.com">Website</a> · <a href="https://twitter.com/khalby786">Twitter</a> · <a href="https://buymeacoffee.com/khaleelgibran">Buy Me A Donut</a>
-
+ 
+ <hr>
 
  <h3><u>languages & frameworks</u></h3>
 
