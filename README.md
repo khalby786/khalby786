@@ -1,3 +1,5 @@
+<div style="background-color:black;color:white">
+
 ![](https://github.com/khalby786/khalby786/blob/master/header.png?raw=true)
 
 <div align="center">
@@ -22,4 +24,5 @@
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khalby786&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
+</div>
 </div>
