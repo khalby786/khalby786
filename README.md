@@ -3,7 +3,8 @@
 ![](https://github.com/khalby786/khalby786/blob/master/header.png?raw=true)
 
 <div align="center">
- <h1>Khaleel Gibran 🍩</h1>
+ <h1>🍩</h1>
+ <h1>Khaleel Gibran</h1>
  <p>A thirteen-year-old web developer from India who loves 🍩.
  <p><a href="https://khaleelgibran.com">Website</a> · <a href="https://twitter.com/khalby786">Twitter</a> · <a href="https://buymeacoffee.com/khaleelgibran">Buy Me A Donut</a>
  
