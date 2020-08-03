@@ -1,4 +1,4 @@
-<div style="background-color:black;color:white">
+<div style="background-color:black !important;color:white !important">
 
 ![](https://github.com/khalby786/khalby786/blob/master/header.png?raw=true)
 
