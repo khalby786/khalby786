@@ -29,5 +29,5 @@
 <hr>
 
 <div align="center">
-  <a href="https://buymeacoffee.com/khaleelgibran">Buy Me a Donut</a> · <a href="https://twitter.com/khalby786">Chat with me on Twitter</a> · Discord #1531
+  <a href="https://buymeacoffee.com/khaleelgibran">Buy Me a Donut</a> · <a href="https://twitter.com/khalby786">Chat with me on Twitter</a> · Discord #1531 · <a href="mailto:khalby786@gmail.com">Email</a> 
 </div>
