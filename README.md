@@ -26,6 +26,12 @@
 | REHeader | ![GitHub stars](https://img.shields.io/github/stars/khalby786/REHeader?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/jsoning?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/REHeader?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/REHeader?style=for-the-badge) |
 | personal-website | ![GitHub stars](https://img.shields.io/github/stars/khalby786/personal-website?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/personal-website?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/personal-website?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/personal-website?style=for-the-badge) |
 
+<h3>my dev.to posts</h3>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <hr>
 
 <div align="center">
