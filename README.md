@@ -26,3 +26,8 @@
 | REHeader | ![GitHub stars](https://img.shields.io/github/stars/khalby786/REHeader?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/jsoning?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/REHeader?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/REHeader?style=for-the-badge) |
 | personal-website | ![GitHub stars](https://img.shields.io/github/stars/khalby786/personal-website?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/personal-website?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/personal-website?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/personal-website?style=for-the-badge) |
 
+<hr>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/khaleelgibran">Buy Me a Donut</a> · <a href="https://twitter.com/khalby786">Chat with me on Twitter</a> · Discord #1531
+</div>
