@@ -39,9 +39,9 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com//khalby786/TheRadBot/pull/8) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-2. ❗️ Closed issue [#7](https://github.com//khalby786/jsoning/issues/7) in [khalby786/jsoning](https://github.com//khalby786/jsoning)
-3. 🗣 Commented on [#7](https://github.com//khalby786/jsoning/issues/7) in [khalby786/jsoning](https://github.com//khalby786/jsoning)
+1. 💪 Opened PR [#224](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/224) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+2. 🎉 Merged PR [#8](https://github.com//khalby786/TheRadBot/pull/8) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+3. ❗️ Closed issue [#7](https://github.com//khalby786/jsoning/issues/7) in [khalby786/jsoning](https://github.com//khalby786/jsoning)
 <!--END_SECTION:activity-->
 
 
