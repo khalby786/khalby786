@@ -36,6 +36,11 @@
 - [Creating a Markdown Blog with EJS & Express](https://dev.to/khalby786/creating-a-markdown-blog-with-ejs-express-j40)
 <!-- BLOG-POST-LIST:END -->
 
+<h3>my github activity</h3>
+
+<!--START_SECTION:activity-->
+
+
 <hr>
 
 <div align="center">
