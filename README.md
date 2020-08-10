@@ -39,9 +39,9 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#810](https://github.com//JonathanGin52/JonathanGin52/issues/810) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-2. ❗️ Opened issue [#809](https://github.com//JonathanGin52/JonathanGin52/issues/809) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-3. ❗️ Opened issue [#808](https://github.com//JonathanGin52/JonathanGin52/issues/808) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+1. 🎉 Merged PR [#10](https://github.com//khalby786/MarkMe/pull/10) in [khalby786/MarkMe](https://github.com//khalby786/MarkMe)
+2. 💪 Opened PR [#10](https://github.com//khalby786/MarkMe/pull/10) in [khalby786/MarkMe](https://github.com//khalby786/MarkMe)
+3. ❗️ Opened issue [#810](https://github.com//JonathanGin52/JonathanGin52/issues/810) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
 
