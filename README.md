@@ -39,9 +39,9 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#224](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/224) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-2. 🎉 Merged PR [#8](https://github.com//khalby786/TheRadBot/pull/8) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-3. ❗️ Closed issue [#7](https://github.com//khalby786/jsoning/issues/7) in [khalby786/jsoning](https://github.com//khalby786/jsoning)
+1. ❗️ Opened issue [#810](https://github.com//JonathanGin52/JonathanGin52/issues/810) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+2. ❗️ Opened issue [#809](https://github.com//JonathanGin52/JonathanGin52/issues/809) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+3. ❗️ Opened issue [#808](https://github.com//JonathanGin52/JonathanGin52/issues/808) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
 
