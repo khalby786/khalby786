@@ -42,8 +42,8 @@
 1. 🎉 Merged PR [#13](https://github.com//khalby786/MarkMe/pull/13) in [khalby786/MarkMe](https://github.com//khalby786/MarkMe)
 2. 💪 Opened PR [#13](https://github.com//khalby786/MarkMe/pull/13) in [khalby786/MarkMe](https://github.com//khalby786/MarkMe)
 3. 🎉 Merged PR [#12](https://github.com//khalby786/MarkMe/pull/12) in [khalby786/MarkMe](https://github.com//khalby786/MarkMe)
-4. Did something
-5. Did another awesome thing. 
+4. 💪 Opened PR [#12](https://github.com//khalby786/MarkMe/pull/12) in [khalby786/MarkMe](https://github.com//khalby786/MarkMe)
+5. ❗️ Opened issue [#827](https://github.com//JonathanGin52/JonathanGin52/issues/827) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
 
