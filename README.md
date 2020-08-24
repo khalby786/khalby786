@@ -39,11 +39,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com//khalby786/MarkMe/pull/14) in [khalby786/MarkMe](https://github.com//khalby786/MarkMe)
-2. 💪 Opened PR [#14](https://github.com//khalby786/MarkMe/pull/14) in [khalby786/MarkMe](https://github.com//khalby786/MarkMe)
-3. 🎉 Merged PR [#11](https://github.com//khalby786/personal-website/pull/11) in [khalby786/personal-website](https://github.com//khalby786/personal-website)
-4. 💪 Opened PR [#11](https://github.com//khalby786/personal-website/pull/11) in [khalby786/personal-website](https://github.com//khalby786/personal-website)
-5. ❗️ Opened issue [#887](https://github.com//JonathanGin52/JonathanGin52/issues/887) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+1. 💪 Opened PR [#1](https://github.com//kyle-rb/simplecopy/pull/1) in [kyle-rb/simplecopy](https://github.com//kyle-rb/simplecopy)
+2. 🎉 Merged PR [#14](https://github.com//khalby786/MarkMe/pull/14) in [khalby786/MarkMe](https://github.com//khalby786/MarkMe)
+3. 💪 Opened PR [#14](https://github.com//khalby786/MarkMe/pull/14) in [khalby786/MarkMe](https://github.com//khalby786/MarkMe)
+4. 🎉 Merged PR [#11](https://github.com//khalby786/personal-website/pull/11) in [khalby786/personal-website](https://github.com//khalby786/personal-website)
+5. 💪 Opened PR [#11](https://github.com//khalby786/personal-website/pull/11) in [khalby786/personal-website](https://github.com//khalby786/personal-website)
 <!--END_SECTION:activity-->
 
 
