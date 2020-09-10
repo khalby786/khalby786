@@ -39,11 +39,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com//khalby786/GlitchyPastePen/pull/17) in [khalby786/GlitchyPastePen](https://github.com//khalby786/GlitchyPastePen)
-2. 💪 Opened PR [#17](https://github.com//khalby786/GlitchyPastePen/pull/17) in [khalby786/GlitchyPastePen](https://github.com//khalby786/GlitchyPastePen)
-3. 🗣 Commented on [#9](https://github.com//khalby786/jiopycat/issues/9) in [khalby786/jiopycat](https://github.com//khalby786/jiopycat)
-4. 💪 Opened PR [#12](https://github.com//khalby786/personal-website/pull/12) in [khalby786/personal-website](https://github.com//khalby786/personal-website)
-5. 🎉 Merged PR [#16](https://github.com//khalby786/MarkMe/pull/16) in [khalby786/MarkMe](https://github.com//khalby786/MarkMe)
+1. 💪 Opened PR [#3135](https://github.com//npm/npm-expansions/pull/3135) in [npm/npm-expansions](https://github.com//npm/npm-expansions)
+2. 🎉 Merged PR [#17](https://github.com//khalby786/GlitchyPastePen/pull/17) in [khalby786/GlitchyPastePen](https://github.com//khalby786/GlitchyPastePen)
+3. 💪 Opened PR [#17](https://github.com//khalby786/GlitchyPastePen/pull/17) in [khalby786/GlitchyPastePen](https://github.com//khalby786/GlitchyPastePen)
+4. 🗣 Commented on [#9](https://github.com//khalby786/jiopycat/issues/9) in [khalby786/jiopycat](https://github.com//khalby786/jiopycat)
+5. 💪 Opened PR [#12](https://github.com//khalby786/personal-website/pull/12) in [khalby786/personal-website](https://github.com//khalby786/personal-website)
 <!--END_SECTION:activity-->
 
 
