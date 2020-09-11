@@ -39,11 +39,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com//khalby786/xkcd-api/pull/3) in [khalby786/xkcd-api](https://github.com//khalby786/xkcd-api)
-2. 💪 Opened PR [#3](https://github.com//khalby786/xkcd-api/pull/3) in [khalby786/xkcd-api](https://github.com//khalby786/xkcd-api)
-3. 🎉 Merged PR [#2](https://github.com//khalby786/xkcd-api/pull/2) in [khalby786/xkcd-api](https://github.com//khalby786/xkcd-api)
-4. 💪 Opened PR [#2](https://github.com//khalby786/xkcd-api/pull/2) in [khalby786/xkcd-api](https://github.com//khalby786/xkcd-api)
-5. 🎉 Merged PR [#1](https://github.com//khalby786/xkcd-api/pull/1) in [khalby786/xkcd-api](https://github.com//khalby786/xkcd-api)
+1. 🎉 Merged PR [#5](https://github.com//khalby786/get-xkcd/pull/5) in [khalby786/get-xkcd](https://github.com//khalby786/get-xkcd)
+2. 💪 Opened PR [#5](https://github.com//khalby786/get-xkcd/pull/5) in [khalby786/get-xkcd](https://github.com//khalby786/get-xkcd)
+3. 🎉 Merged PR [#4](https://github.com//khalby786/xkcd-api/pull/4) in [khalby786/xkcd-api](https://github.com//khalby786/xkcd-api)
+4. 💪 Opened PR [#4](https://github.com//khalby786/xkcd-api/pull/4) in [khalby786/xkcd-api](https://github.com//khalby786/xkcd-api)
+5. 🎉 Merged PR [#3](https://github.com//khalby786/xkcd-api/pull/3) in [khalby786/xkcd-api](https://github.com//khalby786/xkcd-api)
 <!--END_SECTION:activity-->
 
 
