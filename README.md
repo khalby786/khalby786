@@ -39,11 +39,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3135](https://github.com//npm/npm-expansions/pull/3135) in [npm/npm-expansions](https://github.com//npm/npm-expansions)
-2. 🎉 Merged PR [#17](https://github.com//khalby786/GlitchyPastePen/pull/17) in [khalby786/GlitchyPastePen](https://github.com//khalby786/GlitchyPastePen)
-3. 💪 Opened PR [#17](https://github.com//khalby786/GlitchyPastePen/pull/17) in [khalby786/GlitchyPastePen](https://github.com//khalby786/GlitchyPastePen)
-4. 🗣 Commented on [#9](https://github.com//khalby786/jiopycat/issues/9) in [khalby786/jiopycat](https://github.com//khalby786/jiopycat)
-5. 💪 Opened PR [#12](https://github.com//khalby786/personal-website/pull/12) in [khalby786/personal-website](https://github.com//khalby786/personal-website)
+1. 🎉 Merged PR [#3](https://github.com//khalby786/xkcd-api/pull/3) in [khalby786/xkcd-api](https://github.com//khalby786/xkcd-api)
+2. 💪 Opened PR [#3](https://github.com//khalby786/xkcd-api/pull/3) in [khalby786/xkcd-api](https://github.com//khalby786/xkcd-api)
+3. 🎉 Merged PR [#2](https://github.com//khalby786/xkcd-api/pull/2) in [khalby786/xkcd-api](https://github.com//khalby786/xkcd-api)
+4. 💪 Opened PR [#2](https://github.com//khalby786/xkcd-api/pull/2) in [khalby786/xkcd-api](https://github.com//khalby786/xkcd-api)
+5. 🎉 Merged PR [#1](https://github.com//khalby786/xkcd-api/pull/1) in [khalby786/xkcd-api](https://github.com//khalby786/xkcd-api)
 <!--END_SECTION:activity-->
 
 
