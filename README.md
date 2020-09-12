@@ -39,11 +39,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
-2. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
-3. 🎉 Merged PR [#8](https://github.com//khalby786/getxkcd/pull/8) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
-4. 💪 Opened PR [#8](https://github.com//khalby786/getxkcd/pull/8) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
-5. 🎉 Merged PR [#7](https://github.com//khalby786/getxkcd/pull/7) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+1. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+2. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+3. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+4. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+5. 🎉 Merged PR [#8](https://github.com//khalby786/getxkcd/pull/8) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 <!--END_SECTION:activity-->
 
 
