@@ -46,6 +46,10 @@
 5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 <!--END_SECTION:activity-->
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khalby786&column=7&theme=onedark" />
+</div>
+
 
 <hr>
 
