@@ -1,3 +1,5 @@
+<hr>
+
 #### *I joined GitHub <b>{{ ACCOUNT_AGE }} years</b> ago.*
 
 #### *Since then, I've created <b>{{ REPOSITORIES }} repositories</b>, contributed to <b>{{ REPOSITORIES_CONTRIBUTED_TO }} repositories</b>, made <b>{{ COMMITS }} commits</b>, recieved <b>{{ STARS }} stars</b>, opened <b>{{ ISSUES }} issues</b> and created <b>{{ PULL_REQUESTS }} pull requests</b>.*
