@@ -15,7 +15,7 @@ jobs:
       uses: teoxoy/profile-readme-stats@v1
       with:
         token: ${{ secrets.USER_TOKEN }}
-    - name: Update README.md
+    - name: Update README.md with stats
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
         git config user.name github-actions[bot]
