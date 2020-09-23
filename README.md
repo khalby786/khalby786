@@ -2,7 +2,7 @@
 
 #### *I joined GitHub <b>2 years</b> ago.*
 
-#### *Since then, I've created <b>31 repositories</b>, contributed to <b>25 repositories</b>, made <b>893 commits</b>, recieved <b>100 stars</b>, opened <b>16 issues</b> and created <b>109 pull requests</b>.*
+#### *Since then, I've created <b>31 repositories</b>, contributed to <b>25 repositories</b>, made <b>894 commits</b>, recieved <b>100 stars</b>, opened <b>16 issues</b> and created <b>109 pull requests</b>.*
 
 #### *And it continues...*
 
