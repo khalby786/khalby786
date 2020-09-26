@@ -2,7 +2,7 @@
 
 #### *I joined GitHub <b>2 years</b> ago.*
 
-#### *Since then, I've created <b>32 repositories</b>, contributed to <b>26 repositories</b>, made <b>909 commits</b>, recieved <b>103 stars</b>, opened <b>16 issues</b> and created <b>110 pull requests</b>.*
+#### *Since then, I've created <b>32 repositories</b>, contributed to <b>26 repositories</b>, made <b>910 commits</b>, recieved <b>103 stars</b>, opened <b>16 issues</b> and created <b>110 pull requests</b>.*
 
 #### *And it continues...*
 
@@ -49,11 +49,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com//hoppscotch/hopp-doc-gen/pull/11) in [hoppscotch/hopp-doc-gen](https://github.com//hoppscotch/hopp-doc-gen)
-2. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
-3. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-4. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-5. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
+2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 <!--END_SECTION:activity-->
 
 <br><br>
