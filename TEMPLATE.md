@@ -57,7 +57,7 @@
   "commits": "{{ COMMITS }}",
   "stars": "{{ STARS }}",
   "issues": "{{ ISSUES }}",
-  "pull_requests": "{{ PULL_REQUESTS }}
+  "pull_requests": "{{ PULL_REQUESTS }}"
 }
 ```
 
