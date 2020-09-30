@@ -1,12 +1,3 @@
-<hr>
-
-#### *I joined GitHub <b>2 years</b> ago.*
-
-#### *Since then, I've created <b>33 repositories</b>, contributed to <b>26 repositories</b>, made <b>918 commits</b>, recieved <b>104 stars</b>, opened <b>16 issues</b> and created <b>110 pull requests</b>.*
-
-#### *And it continues...*
-
-<hr>
 
 <h1>hi human! :wave:</h1>
 
@@ -55,6 +46,20 @@
 4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 <!--END_SECTION:activity-->
+
+<h3>my wondeful stats</h3>
+
+```json
+{
+  "joined": "2 years ago",
+  "repos": "33",
+  "repos_contributed_to": "26",
+  "commits": "919",
+  "stars": "104",
+  "issues": "16",
+  "pull_requests": "110
+}
+```
 
 <br><br>
 
