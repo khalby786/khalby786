@@ -1,12 +1,3 @@
-<hr>
-
-#### *I joined GitHub <b>{{ ACCOUNT_AGE }} years</b> ago.*
-
-#### *Since then, I've created <b>{{ REPOSITORIES }} repositories</b>, contributed to <b>{{ REPOSITORIES_CONTRIBUTED_TO }} repositories</b>, made <b>{{ COMMITS }} commits</b>, recieved <b>{{ STARS }} stars</b>, opened <b>{{ ISSUES }} issues</b> and created <b>{{ PULL_REQUESTS }} pull requests</b>.*
-
-#### *And it continues...*
-
-<hr>
 
 <h1>hi human! :wave:</h1>
 
@@ -55,6 +46,20 @@
 4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 <!--END_SECTION:activity-->
+
+<h3>my wondeful stats</h3>
+
+```json
+{
+  "joined": "{{ ACCOUNT_AGE }} years ago",
+  "repos": "{{ REPOSITORIES }}",
+  "repos_contributed_to": "{{ REPOSITORIES_CONTRIBUTED_TO }}",
+  "commits": "{{ COMMITS }}",
+  "stars": "{{ STARS }}",
+  "issues": "{{ ISSUES }}",
+  "pull_requests": "{{ PULL_REQUESTS }}
+}
+```
 
 <br><br>
 
