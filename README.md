@@ -55,7 +55,7 @@
   "repos": "35",
   "repos_contributed_to": "26",
   "commits": "983",
-  "stars": "106",
+  "stars": "107",
   "issues": "16",
   "pull_requests": "110"
 }
