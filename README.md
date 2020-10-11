@@ -54,7 +54,7 @@
   "joined": "2 years ago",
   "repos": "35",
   "repos_contributed_to": "26",
-  "commits": "987",
+  "commits": "990",
   "stars": "108",
   "issues": "16",
   "pull_requests": "110"
