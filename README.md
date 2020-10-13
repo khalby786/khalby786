@@ -40,10 +40,10 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#109](https://github.com/gwillem/freeflarum.com/issues/109) in [gwillem/freeflarum.com](https://github.com/gwillem/freeflarum.com)
-2. 🗣 Commented on [#11](https://github.com/hoppscotch/hopp-doc-gen/issues/11) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-3. 💪 Opened PR [#11](https://github.com/hoppscotch/hopp-doc-gen/pull/11) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-4. 💪 Opened PR [#3](https://github.com/tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com/tinkerhub-org/triviator)
+1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
+2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 <!--END_SECTION:activity-->
 
@@ -55,7 +55,7 @@
   "repos": "36",
   "repos_contributed_to": "25",
   "commits": "1010",
-  "stars": "120",
+  "stars": "121",
   "issues": "16",
   "pull_requests": "110"
 }
