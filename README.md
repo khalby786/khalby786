@@ -40,11 +40,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2240](https://github.com/TheRenegadeCoder/sample-programs/pull/2240) in [TheRenegadeCoder/sample-programs](https://github.com/TheRenegadeCoder/sample-programs)
-2. 💪 Opened PR [#1601](https://github.com/30-seconds/30-seconds-of-code/pull/1601) in [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
-3. 💪 Opened PR [#1301](https://github.com/vinitshahdeo/inspirational-quotes/pull/1301) in [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
-4. 💪 Opened PR [#221](https://github.com/lucasgdb/useful-dev-tools/pull/221) in [lucasgdb/useful-dev-tools](https://github.com/lucasgdb/useful-dev-tools)
-5. 🗣 Commented on [#109](https://github.com/gwillem/freeflarum.com/issues/109) in [gwillem/freeflarum.com](https://github.com/gwillem/freeflarum.com)
+1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
+2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 <!--END_SECTION:activity-->
 
 <h3>my wondeful stats</h3>
@@ -53,11 +53,11 @@
 {
   "joined": "2 years ago",
   "repos": "37",
-  "repos_contributed_to": "28",
+  "repos_contributed_to": "29",
   "commits": "1040",
   "stars": "123",
   "issues": "16",
-  "pull_requests": "113"
+  "pull_requests": "114"
 }
 ```
 
