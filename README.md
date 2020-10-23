@@ -40,11 +40,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/khalby786/awesome-glitch/issues/1) in [khalby786/awesome-glitch](https://github.com/khalby786/awesome-glitch)
-2. 🗣 Commented on [#1](https://github.com/khalby786/awesome-glitch/issues/1) in [khalby786/awesome-glitch](https://github.com/khalby786/awesome-glitch)
-3. 🗣 Commented on [#1](https://github.com/khalby786/awesome-glitch/issues/1) in [khalby786/awesome-glitch](https://github.com/khalby786/awesome-glitch)
-4. 🗣 Commented on [#1](https://github.com/khalby786/awesome-glitch/issues/1) in [khalby786/awesome-glitch](https://github.com/khalby786/awesome-glitch)
-5. 💪 Opened PR [#15](https://github.com/Misly16/mislee/pull/15) in [Misly16/mislee](https://github.com/Misly16/mislee)
+1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
+2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 <!--END_SECTION:activity-->
 
 <h3>my wondeful stats</h3>
@@ -54,7 +54,7 @@
   "joined": "2 years ago",
   "repos": "38",
   "repos_contributed_to": "31",
-  "commits": "1105",
+  "commits": "1107",
   "stars": "134",
   "issues": "16",
   "pull_requests": "117"
