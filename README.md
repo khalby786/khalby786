@@ -54,12 +54,17 @@
   "joined": "2 years ago",
   "repos": "42",
   "repos_contributed_to": "32",
-  "commits": "1173",
+  "commits": "1174",
   "stars": "162",
   "issues": "16",
   "pull_requests": "116"
 }
 ```
+
+<h3>my weekly development breakdown</h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br><br>
 
