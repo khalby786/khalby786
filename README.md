@@ -40,11 +40,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
-2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
-5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+1. 🗣 Commented on [#1](https://github.com/aboutDavid/awesomeprojects/issues/1) in [aboutDavid/awesomeprojects](https://github.com/aboutDavid/awesomeprojects)
+2. 🗣 Commented on [#1](https://github.com/aboutDavid/awesomeprojects/issues/1) in [aboutDavid/awesomeprojects](https://github.com/aboutDavid/awesomeprojects)
+3. 💪 Opened PR [#1](https://github.com/aboutDavid/awesomeprojects/pull/1) in [aboutDavid/awesomeprojects](https://github.com/aboutDavid/awesomeprojects)
+4. 🗣 Commented on [#5](https://github.com/khalby786/mockframe/issues/5) in [khalby786/mockframe](https://github.com/khalby786/mockframe)
+5. ❌ Closed PR [#6](https://github.com/khalby786/mockframe/pull/6) in [khalby786/mockframe](https://github.com/khalby786/mockframe)
 <!--END_SECTION:activity-->
 
 <h3>my wondeful stats</h3>
