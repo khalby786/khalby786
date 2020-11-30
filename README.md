@@ -64,6 +64,12 @@
 <h3>my weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   2 hrs 19 mins   ██████████████████████░░░   87.68 % 
+Vue.js       13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+```
 <!--END_SECTION:waka-->
 
 <br><br>
