@@ -64,6 +64,13 @@
 <h3>my weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   1 hr 43 mins    █████████████████░░░░░░░░   68.14 % 
+TypeScript   18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+HTML         14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+CSS          10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+```
 <!--END_SECTION:waka-->
 
 <br><br>
