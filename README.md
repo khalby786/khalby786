@@ -31,7 +31,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
-- [Create a custom 404 page for your Vue 2 app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
+- [Create a custom 404 page for your Vue app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
 - [REHeader - GitHub Profile README Header Image Generator](https://dev.to/khalby786/reheader-github-profile-readme-header-image-generator-45pe)
 - [Jsoning - A simple key-value JSON-based persistent lightweight database.✨](https://dev.to/khalby786/jsoning-a-simple-key-value-json-based-persistent-lightweight-database-51c0)
 - [Creating a Markdown Blog with EJS & Express](https://dev.to/khalby786/creating-a-markdown-blog-with-ejs-express-j40)
@@ -64,13 +64,6 @@
 <h3>my weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
-```text
-Vue.js       55 mins         ███████████▒░░░░░░░░░░░░░   45.71 % 
-JavaScript   32 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.46 % 
-JSON         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-HTML         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Java         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-```
 <!--END_SECTION:waka-->
 
 <br><br>
