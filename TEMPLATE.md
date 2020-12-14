@@ -64,7 +64,13 @@
 <h3>my weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
-
+```text
+Python     6 hrs 57 mins   ██████████████████████░░░   88.27 % 
+Markdown   40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Other      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+JSON       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+VimL       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+```
 <!--END_SECTION:waka-->
 
 <br><br>
