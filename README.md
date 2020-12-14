@@ -54,7 +54,7 @@
   "joined": "2 years ago",
   "repos": "43",
   "repos_contributed_to": "37",
-  "commits": "1270",
+  "commits": "1271",
   "stars": "155",
   "issues": "16",
   "pull_requests": "119"
@@ -65,11 +65,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       55 mins         ███████████▒░░░░░░░░░░░░░   45.71 % 
-JavaScript   32 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.46 % 
-JSON         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-HTML         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Java         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Python     6 hrs 57 mins   ██████████████████████░░░   88.27 % 
+Markdown   40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Other      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+JSON       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+VimL       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 <!--END_SECTION:waka-->
 
