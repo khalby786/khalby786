@@ -54,7 +54,7 @@
   "joined": "2 years ago",
   "repos": "43",
   "repos_contributed_to": "37",
-  "commits": "1269",
+  "commits": "1270",
   "stars": "155",
   "issues": "16",
   "pull_requests": "119"
@@ -64,13 +64,7 @@
 <h3>my weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
-```text
-Vue.js       55 mins         ███████████▒░░░░░░░░░░░░░   45.71 % 
-JavaScript   32 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.46 % 
-JSON         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-HTML         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Java         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-```
+
 <!--END_SECTION:waka-->
 
 <br><br>
