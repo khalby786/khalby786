@@ -40,11 +40,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/khalby786/friendly-words/pull/3) in [khalby786/friendly-words](https://github.com/khalby786/friendly-words)
-2. 💪 Opened PR [#3](https://github.com/khalby786/friendly-words/pull/3) in [khalby786/friendly-words](https://github.com/khalby786/friendly-words)
-3. 🎉 Merged PR [#2](https://github.com/khalby786/friendly-words/pull/2) in [khalby786/friendly-words](https://github.com/khalby786/friendly-words)
-4. 💪 Opened PR [#2](https://github.com/khalby786/friendly-words/pull/2) in [khalby786/friendly-words](https://github.com/khalby786/friendly-words)
-5. 🎉 Merged PR [#1](https://github.com/khalby786/friendly-words/pull/1) in [khalby786/friendly-words](https://github.com/khalby786/friendly-words)
+1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
+2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 <!--END_SECTION:activity-->
 
 <h3>my wondeful stats</h3>
@@ -54,10 +54,10 @@
   "joined": "2 years ago",
   "repos": "44",
   "repos_contributed_to": "37",
-  "commits": "1304",
-  "stars": "156",
+  "commits": "1306",
+  "stars": "157",
   "issues": "15",
-  "pull_requests": "122"
+  "pull_requests": "123"
 }
 ```
 
