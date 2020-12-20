@@ -40,11 +40,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
-2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
-5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+1. 🗣 Commented on [#54](https://github.com/ourcord/ourcord/issues/54) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+2. 💪 Opened PR [#53](https://github.com/ourcord/ourcord/pull/53) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+3. 💪 Opened PR [#6](https://github.com/aboutDavid/glitchapidocs/pull/6) in [aboutDavid/glitchapidocs](https://github.com/aboutDavid/glitchapidocs)
+4. 💪 Opened PR [#1378](https://github.com/hoppscotch/hoppscotch/pull/1378) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. 🗣 Commented on [#2](https://github.com/jsonsite/cli/issues/2) in [jsonsite/cli](https://github.com/jsonsite/cli)
 <!--END_SECTION:activity-->
 
 <h3>my wondeful stats</h3>
