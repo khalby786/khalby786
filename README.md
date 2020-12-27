@@ -40,11 +40,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/RiversideRocks/RockyProxy/issues/1) in [RiversideRocks/RockyProxy](https://github.com/RiversideRocks/RockyProxy)
-2. 🗣 Commented on [#57](https://github.com/ourcord/ourcord/issues/57) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-3. 🗣 Commented on [#50](https://github.com/ourcord/ourcord/issues/50) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-4. 💪 Opened PR [#56](https://github.com/ourcord/ourcord/pull/56) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-5. 🎉 Merged PR [#3](https://github.com/khalby786/friendly-words/pull/3) in [khalby786/friendly-words](https://github.com/khalby786/friendly-words)
+1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
+2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 <!--END_SECTION:activity-->
 
 <h3>my wondeful stats</h3>
@@ -54,7 +54,7 @@
   "joined": "2 years ago",
   "repos": "44",
   "repos_contributed_to": "38",
-  "commits": "1321",
+  "commits": "1322",
   "stars": "160",
   "issues": "16",
   "pull_requests": "124"
