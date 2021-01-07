@@ -40,11 +40,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/khalby786/khalby786/issues/1) in [khalby786/khalby786](https://github.com/khalby786/khalby786)
-2. ❗️ Opened issue [#9](https://github.com/liyasthomas/helloish/issues/9) in [liyasthomas/helloish](https://github.com/liyasthomas/helloish)
-3. ❗️ Opened issue [#1](https://github.com/RiversideRocks/RockyProxy/issues/1) in [RiversideRocks/RockyProxy](https://github.com/RiversideRocks/RockyProxy)
-4. 🗣 Commented on [#57](https://github.com/ourcord/ourcord/issues/57) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
-5. 🗣 Commented on [#50](https://github.com/ourcord/ourcord/issues/50) in [ourcord/ourcord](https://github.com/ourcord/ourcord)
+1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
+2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 <!--END_SECTION:activity-->
 
 <h3>my wondeful stats</h3>
@@ -65,11 +65,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 28 mins   █████████████████▒░░░░░░░   68.89 % 
-TypeScript   33 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-JSON         21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-SCSS         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Svelte       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Python     6 hrs 57 mins   ██████████████████████░░░   88.27 % 
+Markdown   40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Other      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+JSON       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+VimL       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 <!--END_SECTION:waka-->
 
