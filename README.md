@@ -40,11 +40,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-- 1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
-- 2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-- 3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-- 4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
-- 5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+1. 🗣 Commented on [#271](https://github.com/kevquirk/512kb.club/issues/271) in [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
+2. 🗣 Commented on [#271](https://github.com/kevquirk/512kb.club/issues/271) in [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
+3. 💪 Opened PR [#667](https://github.com/bradleytaunt/1mb-club/pull/667) in [bradleytaunt/1mb-club](https://github.com/bradleytaunt/1mb-club)
+4. ❗️ Opened issue [#271](https://github.com/kevquirk/512kb.club/issues/271) in [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club)
+5. 🗣 Commented on [#4](https://github.com/aboutDavid/blog-comments/issues/4) in [aboutDavid/blog-comments](https://github.com/aboutDavid/blog-comments)
 <!--END_SECTION:activity-->
 
 <h3>my wondeful stats</h3>
