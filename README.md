@@ -55,7 +55,7 @@
   "joined": "2 years ago",
   "repos": "46",
   "repos_contributed_to": "41",
-  "commits": "1367",
+  "commits": "1368",
   "stars": "204",
   "issues": "18",
   "pull_requests": "118"
@@ -84,5 +84,5 @@ JSON         2 mins          ▒░░░░░░░░░░░░░░░░
 <hr>
 
 <div align="center">
-  <a href="https://buymeacoffee.com/khaleelgibran">Buy Me a Donut</a> · <a href="https://twitter.com/khalby786">Chat with me on Twitter</a> ·  khalby786#1531 · <a href="mailto:khalby786@gmail.com">Email</a> 
+  <a href="https://buymeacoffee.com/khaleelgibran">Buy Me a Donut</a> · <a href="https://twitter.com/khalby786">Chat with me on Twitter</a> ·  <a href="https://discord.bio/p/khalby786">Discord</a> · <a href="mailto:khalby786@gmail.com">Email</a> 
 </div>
