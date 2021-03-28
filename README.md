@@ -41,11 +41,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-- 1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
-- 2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-- 3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-- 4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
-- 5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+1. 🗣 Commented on [#309](https://github.com/utterance/utterances/issues/309) in [utterance/utterances](https://github.com/utterance/utterances)
+2. 🗣 Commented on [#1](https://github.com/khalby786/vue-utterances/issues/1) in [khalby786/vue-utterances](https://github.com/khalby786/vue-utterances)
+3. ❌ Closed PR [#5](https://github.com/khalby786/mockframe/pull/5) in [khalby786/mockframe](https://github.com/khalby786/mockframe)
+4. 🗣 Commented on [#1](https://github.com/khalby786/blog/issues/1) in [khalby786/blog](https://github.com/khalby786/blog)
+5. 🗣 Commented on [#1](https://github.com/khalby786/blog/issues/1) in [khalby786/blog](https://github.com/khalby786/blog)
 <!--END_SECTION:activity-->
 
 <h3>my wondeful stats</h3>
