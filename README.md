@@ -32,7 +32,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
-- [Create a custom 404 page for your Vue 2 app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
+- [Create a custom 404 page for your Vue app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
 - [REHeader - GitHub Profile README Header Image Generator](https://dev.to/khalby786/reheader-github-profile-readme-header-image-generator-45pe)
 - [Jsoning - A simple key-value JSON-based persistent lightweight database.✨](https://dev.to/khalby786/jsoning-a-simple-key-value-json-based-persistent-lightweight-database-51c0)
 - [Creating a Markdown Blog with EJS & Express](https://dev.to/khalby786/creating-a-markdown-blog-with-ejs-express-j40)
@@ -41,11 +41,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/khalby786/jsoning/pull/13) in [khalby786/jsoning](https://github.com/khalby786/jsoning)
-2. 🎉 Merged PR [#12](https://github.com/khalby786/jsoning/pull/12) in [khalby786/jsoning](https://github.com/khalby786/jsoning)
-3. 🗣 Commented on [#12](https://github.com/khalby786/jsoning/issues/12) in [khalby786/jsoning](https://github.com/khalby786/jsoning)
-4. 🗣 Commented on [#12](https://github.com/khalby786/jsoning/issues/12) in [khalby786/jsoning](https://github.com/khalby786/jsoning)
-5. 🗣 Commented on [#5727](https://github.com/js-org/js.org/issues/5727) in [js-org/js.org](https://github.com/js-org/js.org)
+- 1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
+- 2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+- 3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+- 4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+- 5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 <!--END_SECTION:activity-->
 
 <h3>my wondeful stats</h3>
@@ -55,7 +55,7 @@
   "joined": "2 years ago",
   "repos": "47",
   "repos_contributed_to": "37",
-  "commits": "1395",
+  "commits": "1397",
   "stars": "217",
   "issues": "18",
   "pull_requests": "119"
@@ -66,10 +66,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       3 hrs 25 mins   █████████████████████▒░░░   85.07 % 
-JavaScript   27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+JavaScript   2 hrs 29 mins   ████████████████▒░░░░░░░░   65.38 % 
+Vue.js       1 hr 2 mins     ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+SCSS         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Svelte       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 <!--END_SECTION:waka-->
 
