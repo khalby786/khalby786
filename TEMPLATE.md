@@ -1,9 +1,31 @@
 
 <h1>hi human! :wave:</h1>
 
+ - 🔭 I'm currently working on [GlitchyPastePen](https://github.com/khalby786/GlitchyPastePen.v2) and other [side](https://github.com/khalby786/MarkMe) [projects](https://github.com/khalby786/smallurll)!
+ - 🌱 I'm currently learning React, Go and cybersecurity
+ - 👯 I'm looking to collaborate on full stack web apps!
+ - 🤔 I'm looking for help with Typescript and React
+ - 💬 Ask me about Vue, 3D art (including voxel art), donuts and robots
+ - 📫 How to reach me: [discord](https://discord.bio/p/khalby786) or [social](#social)
+ - 😄 Pronouns: he/him
+ - ⚡ Fun fact: I have a [tumblr blog](https://art.khaleelgibran.com) filled with my artwork!
+
+
 <h3>who am i?</h3>
 
 <img src="https://raw.githubusercontent.com/khalby786/khalby786/master/GitHub%20header.png">
+
+<h3 id="social">contact me</h3>
+
+<a href="//github.com/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
+<a href="//glitch.com/@khalby786"><img src="https://khaleelgibran.com/GlitchIcon_Solid_Black.png" width="30px" /></a>
+<a href="//twitter.com/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/twitter-alt.svg" width="30px" /></a>
+<a href="//instagram.com/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/instagram.svg" width="30px" /></a>
+<a href="//twitch.tv/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/twitch.svg" width="30px" /></a>
+<a href="https://www.youtube.com/channel/UCrpLyU8D2wajlTae6qZx_eQ"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/youtube.svg" width="30px" /></a>
+<a href="//codepen.io/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/codepen.svg" width="30px" /></a>
+<a href="//reddit.com/u/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/reddit.svg" width="30px" /></a>
+<a href="mailto:hello@khaleelgibran.com"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/mail.svg" width="30px" /></a>
 
 <h3>things i code with</h3>
 
@@ -82,11 +104,4 @@ JSON         2 mins          ▒░░░░░░░░░░░░░░░░
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=khalby786&column=7&theme=onedark" />
-</div>
-
-
-<hr>
-
-<div align="center">
-  <a href="https://buymeacoffee.com/khaleelgibran">Buy Me a Donut</a> · <a href="https://twitter.com/khalby786">Chat with me on Twitter</a> ·  <a href="https://discord.bio/p/khalby786">Discord</a> · <a href="mailto:khalby786@gmail.com">Email</a> 
 </div>
