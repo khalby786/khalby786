@@ -48,6 +48,10 @@
 - 5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 <!--END_SECTION:activity-->
 
+and here's a graph for people who like graphs: 
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=khalby786&theme=github)
+
 <h3>my wondeful stats</h3>
 
 ```json
