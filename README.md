@@ -1,6 +1,10 @@
 
 <h1>hi human! :wave:</h1>
 
+<h3>who am i?</h3>
+
+<img src="https://raw.githubusercontent.com/khalby786/khalby786/master/GitHub%20header.png">
+
  - 🔭 I'm currently working on [GlitchyPastePen](https://github.com/khalby786/GlitchyPastePen.v2) and other [side](https://github.com/khalby786/MarkMe) [projects](https://github.com/khalby786/smallurll)!
  - 🌱 I'm currently learning React, Go and cybersecurity
  - 👯 I'm looking to collaborate on full stack web apps!
@@ -9,11 +13,6 @@
  - 📫 How to reach me: [discord](https://discord.bio/p/khalby786) or [social](#social)
  - 😄 Pronouns: he/him
  - ⚡ Fun fact: I have a [tumblr blog](https://art.khaleelgibran.com) filled with my artwork!
-
-
-<h3>who am i?</h3>
-
-<img src="https://raw.githubusercontent.com/khalby786/khalby786/master/GitHub%20header.png">
 
 <h3 id="social">contact me</h3>
 
@@ -29,22 +28,22 @@
 
 <h3>things i code with</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px">
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px"></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30px"></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>
 
 
 <h3>things i am learning </h3>
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="30px">
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px"></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="30px"></span>
 
 <h3>open source projects</h3>
 
@@ -89,7 +88,7 @@ and here's a graph for people who like graphs:
   "joined": "2 years ago",
   "repos": "47",
   "repos_contributed_to": "37",
-  "commits": "1406",
+  "commits": "1407",
   "stars": "219",
   "issues": "18",
   "pull_requests": "119"
