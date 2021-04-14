@@ -3,7 +3,7 @@
 
 <h3>who am i?</h3>
 
-<img src="https://github.com/khalby786/khalby786/blob/master/header.png?raw=true">
+<img src="https://raw.githubusercontent.com/khalby786/khalby786/master/GitHub%20header.png">
 
 <h3>things i code with</h3>
 
@@ -59,7 +59,7 @@ and here's a graph for people who like graphs:
   "joined": "2 years ago",
   "repos": "47",
   "repos_contributed_to": "37",
-  "commits": "1402",
+  "commits": "1403",
   "stars": "219",
   "issues": "18",
   "pull_requests": "119"
