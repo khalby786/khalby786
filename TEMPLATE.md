@@ -3,7 +3,7 @@
 
 <h3>who am i?</h3>
 
-<img src="https://github.com/khalby786/khalby786/blob/master/header.png?raw=true">
+<img src="https://raw.githubusercontent.com/khalby786/khalby786/master/GitHub%20header.png">
 
 <h3>things i code with</h3>
 
