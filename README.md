@@ -61,7 +61,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
-- [Create a custom 404 page for your Vue 2 app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
+- [Create a custom 404 page for your Vue app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
 - [REHeader - GitHub Profile README Header Image Generator](https://dev.to/khalby786/reheader-github-profile-readme-header-image-generator-45pe)
 - [Jsoning - A simple key-value JSON-based persistent lightweight database.✨](https://dev.to/khalby786/jsoning-a-simple-key-value-json-based-persistent-lightweight-database-51c0)
 - [Creating a Markdown Blog with EJS & Express](https://dev.to/khalby786/creating-a-markdown-blog-with-ejs-express-j40)
@@ -70,11 +70,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/khalby786/jsoning/issues/14) in [khalby786/jsoning](https://github.com/khalby786/jsoning)
-2. ❗️ Closed issue [#14](https://github.com/khalby786/jsoning/issues/14) in [khalby786/jsoning](https://github.com/khalby786/jsoning)
-3. ❗️ Opened issue [#4](https://github.com/GopikrishnanSasikumar/test/issues/4) in [GopikrishnanSasikumar/test](https://github.com/GopikrishnanSasikumar/test)
-4. 🗣 Commented on [#47](https://github.com/fossunited/community/issues/47) in [fossunited/community](https://github.com/fossunited/community)
-5. 💪 Opened PR [#53](https://github.com/fossunited/community/pull/53) in [fossunited/community](https://github.com/fossunited/community)
+- 1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
+- 2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+- 3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+- 4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+- 5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 <!--END_SECTION:activity-->
 
 and here's a graph for people who like graphs: 
@@ -86,9 +86,9 @@ and here's a graph for people who like graphs:
 ```json
 {
   "joined": "3 years ago",
-  "repos": "50",
+  "repos": "51",
   "repos_contributed_to": "37",
-  "commits": "1461",
+  "commits": "1464",
   "stars": "228",
   "issues": "18",
   "pull_requests": "120"
@@ -99,11 +99,11 @@ and here's a graph for people who like graphs:
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       35 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.65 % 
-LESS         33 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.14 % 
-JSON         28 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.31 % 
-CSS          27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.33 % 
-JavaScript   16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+JavaScript   2 hrs 29 mins   ████████████████▒░░░░░░░░   65.38 % 
+Vue.js       1 hr 2 mins     ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+SCSS         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Svelte       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 <!--END_SECTION:waka-->
 
