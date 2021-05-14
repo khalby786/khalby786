@@ -61,7 +61,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
-- [Create a custom 404 page for your Vue 2 app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
+- [Create a custom 404 page for your Vue app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
 - [REHeader - GitHub Profile README Header Image Generator](https://dev.to/khalby786/reheader-github-profile-readme-header-image-generator-45pe)
 - [Jsoning - A simple key-value JSON-based persistent lightweight database.✨](https://dev.to/khalby786/jsoning-a-simple-key-value-json-based-persistent-lightweight-database-51c0)
 - [Creating a Markdown Blog with EJS & Express](https://dev.to/khalby786/creating-a-markdown-blog-with-ejs-express-j40)
@@ -70,11 +70,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/tinkerhub-org/discord-webhooks/pull/2) in [tinkerhub-org/discord-webhooks](https://github.com/tinkerhub-org/discord-webhooks)
-2. 💪 Opened PR [#2](https://github.com/tinkerhub-org/discord-webhooks/pull/2) in [tinkerhub-org/discord-webhooks](https://github.com/tinkerhub-org/discord-webhooks)
-3. 🎉 Merged PR [#1](https://github.com/khalby786/super-octo-robot/pull/1) in [khalby786/super-octo-robot](https://github.com/khalby786/super-octo-robot)
-4. 💪 Opened PR [#1](https://github.com/khalby786/super-octo-robot/pull/1) in [khalby786/super-octo-robot](https://github.com/khalby786/super-octo-robot)
-5. ❗️ Closed issue [#1](https://github.com/tinkerhub-org/discord-webhooks/issues/1) in [tinkerhub-org/discord-webhooks](https://github.com/tinkerhub-org/discord-webhooks)
+- 1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
+- 2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+- 3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+- 4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+- 5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 <!--END_SECTION:activity-->
 
 and here's a graph for people who like graphs: 
@@ -89,7 +89,7 @@ and here's a graph for people who like graphs:
   "repos": "51",
   "repos_contributed_to": "38",
   "commits": "1484",
-  "stars": "231",
+  "stars": "232",
   "issues": "18",
   "pull_requests": "122"
 }
@@ -99,11 +99,11 @@ and here's a graph for people who like graphs:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs           ████████████▓░░░░░░░░░░░░   50.89 % 
-Vue.js       1 hr 16 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.51 % 
-CSS          39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-JSON         26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-HTML         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+JavaScript   2 hrs 29 mins   ████████████████▒░░░░░░░░   65.38 % 
+Vue.js       1 hr 2 mins     ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+SCSS         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Svelte       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 <!--END_SECTION:waka-->
 
