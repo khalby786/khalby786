@@ -81,7 +81,7 @@ and here's a graph for people who like graphs:
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=khalby786&theme=github)
 
-<h3>my wondeful stats</h3>
+<h3>my wonderful stats</h3>
 
 ```json
 {
