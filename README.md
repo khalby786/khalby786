@@ -60,7 +60,11 @@
 <h3>my latest blog posts</h3>
 
 <!--START_SECTION:feed-->
-...
+* [The Story of My Life (Literally)](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;post&#x2F;the-story-of-my-life)
+* [My First VFX Shot in Blender!](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;post&#x2F;my-first-vfx-shot-blender)
+* [BLOG UPDATE!!](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;post&#x2F;blog-update)
+* [Generated Static Projects on Glitch!](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;post&#x2F;generated-static-glitch)
+* [Drag &amp; Drop with Vue???](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;post&#x2F;drag-and-drop-vue)
 <!--END_SECTION:feed-->
 
 <h3>my dev.to posts</h3>
