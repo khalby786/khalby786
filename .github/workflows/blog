@@ -1,0 +1,15 @@
+name: Add latest blog posts from blog.khaleelgibran.com
+
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://blog.khaleelgibran.com/feed.xml
+          readme-section: feed
