@@ -57,6 +57,12 @@
 | personal-website | ![GitHub stars](https://img.shields.io/github/stars/khalby786/personal-website?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/personal-website?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/personal-website?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/personal-website?style=for-the-badge) |
 | vue-utterances | ![GitHub stars](https://img.shields.io/github/stars/khalby786/vue-utterances?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/vue-utterances?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/vue-utterances?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/vue-utterances?style=for-the-badge) |
 
+<h3>my latest blog posts</h3>
+
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
+
 <h3>my dev.to posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
