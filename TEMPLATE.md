@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/khalby786/khalby786/master/GitHub%20header.png">
 
- - 🔭 I'm currently working on [GlitchyPastePen](https://github.com/khalby786/GlitchyPastePen.v2) and other [side](https://github.com/khalby786/MarkMe) [projects](https://github.com/khalby786/smallurll)!
+ - 🔭 I'm currently working on a lot of [side](https://github.com/khalby786/MarkMe) [projects](https://github.com/khalby786/smallurll)!
  - 🌱 I'm currently learning React, Go and cybersecurity
  - 👯 I'm looking to collaborate on full stack web apps!
  - 🤔 I'm looking for help with Typescript and React
