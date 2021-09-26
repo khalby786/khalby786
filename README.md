@@ -60,18 +60,14 @@
 <h3>my latest blog posts</h3>
 
 <!--START_SECTION:feed-->
-* [a rectangular image generator has more stars on github than a complicated corruption-less data storing npm package, and i&#39;m embarrassed about it](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;post&#x2F;reheader-has-more-stars-than-jsoning)
-* [I rickrolled the Director of Community Engineering at Glitch - twice](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;post&#x2F;i-rickrolled-jenn-schiffer)
-* [The Story of My Life (Literally)](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;post&#x2F;the-story-of-my-life)
-* [My First VFX Shot in Blender!](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;post&#x2F;my-first-vfx-shot-blender)
-* [BLOG UPDATE!!](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;post&#x2F;blog-update)
+...
 <!--END_SECTION:feed-->
 
 <h3>my dev.to posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
-- [Create a custom 404 page for your Vue 2 app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
+- [Create a custom 404 page for your Vue app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
 - [REHeader - GitHub Profile README Header Image Generator](https://dev.to/khalby786/reheader-github-profile-readme-header-image-generator-45pe)
 - [Jsoning - A simple key-value JSON-based persistent lightweight database.✨](https://dev.to/khalby786/jsoning-a-simple-key-value-json-based-persistent-lightweight-database-51c0)
 - [Creating a Markdown Blog with EJS & Express](https://dev.to/khalby786/creating-a-markdown-blog-with-ejs-express-j40)
@@ -80,11 +76,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/khalby786/jsoning/issues/20) in [khalby786/jsoning](https://github.com/khalby786/jsoning)
-2. ❗️ Opened issue [#3](https://github.com/antefact/microBit.js/issues/3) in [antefact/microBit.js](https://github.com/antefact/microBit.js)
-3. 🗣 Commented on [#6](https://github.com/sawyerpollard/Minecraft-Weather-New-Tab/issues/6) in [sawyerpollard/Minecraft-Weather-New-Tab](https://github.com/sawyerpollard/Minecraft-Weather-New-Tab)
-4. 🗣 Commented on [#2](https://github.com/sawyerpollard/Minecraft-Weather-New-Tab/issues/2) in [sawyerpollard/Minecraft-Weather-New-Tab](https://github.com/sawyerpollard/Minecraft-Weather-New-Tab)
-5. 🗣 Commented on [#2](https://github.com/sawyerpollard/Minecraft-Weather-New-Tab/issues/2) in [sawyerpollard/Minecraft-Weather-New-Tab](https://github.com/sawyerpollard/Minecraft-Weather-New-Tab)
+- 1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
+- 2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+- 3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+- 4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+- 5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 <!--END_SECTION:activity-->
 
 and here's a graph for people who like graphs: 
@@ -99,7 +95,7 @@ and here's a graph for people who like graphs:
   "repos": "55",
   "repos_contributed_to": "28",
   "commits": "1711",
-  "stars": "307",
+  "stars": "308",
   "issues": "20",
   "pull_requests": "127"
 }
@@ -109,11 +105,11 @@ and here's a graph for people who like graphs:
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       6 hrs 12 mins   ███████████████████▓░░░░░   78.15 % 
-JavaScript   1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-JSON         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Svelte       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+JavaScript   2 hrs 29 mins   ████████████████▒░░░░░░░░   65.38 % 
+Vue.js       1 hr 2 mins     ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+SCSS         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Svelte       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 <!--END_SECTION:waka-->
 
