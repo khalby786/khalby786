@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/khalby786/khalby786/master/GitHub%20header.png">
 
  - 🔭 I'm currently working on a lot of [side](https://github.com/khalby786/MarkMe) [projects](https://github.com/khalby786/smallurll)!
- - 🌱 I'm currently learning React, Go and cybersecurity
+ - 🌱 I'm currently learning React, Go, OpenGL and cybersecurity
  - 👯 I'm looking to collaborate on full stack web apps!
  - 🤔 I'm looking for help with Typescript and React
  - 💬 Ask me about Vue, 3D art (including voxel art), donuts and robots
@@ -42,6 +42,7 @@
 <br>
 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="30px"></span>
 
