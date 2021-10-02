@@ -61,7 +61,11 @@
 <h3>my latest blog posts</h3>
 
 <!--START_SECTION:feed-->
-...
+* [a rectangular image generator has more stars on github than a complicated corruption-less data storing npm package, and i&#39;m embarrassed about it](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;post&#x2F;reheader-has-more-stars-than-jsoning)
+* [I rickrolled the Director of Community Engineering at Glitch - twice](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;post&#x2F;i-rickrolled-jenn-schiffer)
+* [The Story of My Life (Literally)](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;post&#x2F;the-story-of-my-life)
+* [My First VFX Shot in Blender!](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;post&#x2F;my-first-vfx-shot-blender)
+* [BLOG UPDATE!!](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;post&#x2F;blog-update)
 <!--END_SECTION:feed-->
 
 <h3>my dev.to posts</h3>
