@@ -23,7 +23,6 @@
 <a href="//twitch.tv/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/twitch.svg" width="30px" /></a>
 <a href="https://www.youtube.com/channel/UCrpLyU8D2wajlTae6qZx_eQ"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/youtube.svg" width="30px" /></a>
 <a href="//codepen.io/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/codepen.svg" width="30px" /></a>
-<a href="//reddit.com/u/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/reddit.svg" width="30px" /></a>
 <a href="mailto:hello@khaleelgibran.com"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/mail.svg" width="30px" /></a>
 
 <h3>things i code with</h3>
@@ -95,7 +94,7 @@ and here's a graph for people who like graphs:
   "joined": "3 years ago",
   "repos": "55",
   "repos_contributed_to": "28",
-  "commits": "1718",
+  "commits": "1719",
   "stars": "310",
   "issues": "20",
   "pull_requests": "128"
