@@ -80,11 +80,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-- 1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
-- 2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-- 3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-- 4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
-- 5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+1. 🗣 Commented on [#23](https://github.com/khalby786/jsoning/issues/23) in [khalby786/jsoning](https://github.com/khalby786/jsoning)
+2. 🗣 Commented on [#22](https://github.com/wh0/snail-cli/issues/22) in [wh0/snail-cli](https://github.com/wh0/snail-cli)
+3. 💪 Opened PR [#25](https://github.com/wh0/snail-cli/pull/25) in [wh0/snail-cli](https://github.com/wh0/snail-cli)
+4. 💪 Opened PR [#24](https://github.com/wh0/snail-cli/pull/24) in [wh0/snail-cli](https://github.com/wh0/snail-cli)
+5. 🗣 Commented on [#19](https://github.com/wh0/snail-cli/issues/19) in [wh0/snail-cli](https://github.com/wh0/snail-cli)
 <!--END_SECTION:activity-->
 
 and here's a graph for people who like graphs: 
