@@ -80,11 +80,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/khalby786/don8t/pull/1) in [khalby786/don8t](https://github.com/khalby786/don8t)
-2. 🗣 Commented on [#23](https://github.com/khalby786/jsoning/issues/23) in [khalby786/jsoning](https://github.com/khalby786/jsoning)
-3. 🗣 Commented on [#22](https://github.com/wh0/snail-cli/issues/22) in [wh0/snail-cli](https://github.com/wh0/snail-cli)
-4. 💪 Opened PR [#25](https://github.com/wh0/snail-cli/pull/25) in [wh0/snail-cli](https://github.com/wh0/snail-cli)
-5. 💪 Opened PR [#24](https://github.com/wh0/snail-cli/pull/24) in [wh0/snail-cli](https://github.com/wh0/snail-cli)
+1. 💪 Opened PR [#385](https://github.com/lucasgdb/useful-dev-tools/pull/385) in [lucasgdb/useful-dev-tools](https://github.com/lucasgdb/useful-dev-tools)
+2. 💪 Opened PR [#1](https://github.com/khalby786/don8t/pull/1) in [khalby786/don8t](https://github.com/khalby786/don8t)
+3. 🗣 Commented on [#23](https://github.com/khalby786/jsoning/issues/23) in [khalby786/jsoning](https://github.com/khalby786/jsoning)
+4. 🗣 Commented on [#22](https://github.com/wh0/snail-cli/issues/22) in [wh0/snail-cli](https://github.com/wh0/snail-cli)
+5. 💪 Opened PR [#25](https://github.com/wh0/snail-cli/pull/25) in [wh0/snail-cli](https://github.com/wh0/snail-cli)
 <!--END_SECTION:activity-->
 
 and here's a graph for people who like graphs: 
