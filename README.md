@@ -109,11 +109,8 @@ and here's a graph for people who like graphs:
 
 <!--START_SECTION:waka-->
 ```text
-Svelte       32 mins         ██████████████▓░░░░░░░░░░   58.83 % 
-CSS          8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Vue.js       6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-JSON         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Git Config   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Svelte   40 mins         █████████████████▒░░░░░░░   68.81 % 
+CSS      18 mins         ███████▓░░░░░░░░░░░░░░░░░   30.64 % 
 ```
 <!--END_SECTION:waka-->
 
