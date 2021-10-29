@@ -109,8 +109,8 @@ and here's a graph for people who like graphs:
 
 <!--START_SECTION:waka-->
 ```text
-Svelte   59 mins         ███████████████████░░░░░░   75.70 % 
-CSS      18 mins         ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+Svelte   37 mins         █████████████████░░░░░░░░   68.12 % 
+CSS      17 mins         ████████░░░░░░░░░░░░░░░░░   31.38 % 
 ```
 <!--END_SECTION:waka-->
 
