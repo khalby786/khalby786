@@ -109,10 +109,7 @@ and here's a graph for people who like graphs:
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js   1 hr 44 mins    ████████████████████░░░░░   80.61 % 
-JSON     20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-XML      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-HTML     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Vue.js   58 mins         ████████████████████████▒   97.27 % 
 ```
 <!--END_SECTION:waka-->
 
