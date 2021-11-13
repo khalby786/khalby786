@@ -22,6 +22,6 @@ jobs:
         git config user.email 41898282+github-actions[bot]@users.noreply.github.com
         git add .
         git commit -m "Update README"
-        git pull
+        git pull --ff-only
         git push
         fi
