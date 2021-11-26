@@ -33,11 +33,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-- 1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
-- 2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-- 3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-- 4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
-- 5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+1. ❌ Closed PR [#3](https://github.com/khalby786/blog/pull/3) in [khalby786/blog](https://github.com/khalby786/blog)
+2. 💪 Opened PR [#385](https://github.com/lucasgdb/useful-dev-tools/pull/385) in [lucasgdb/useful-dev-tools](https://github.com/lucasgdb/useful-dev-tools)
+3. 💪 Opened PR [#1](https://github.com/khalby786/don8t/pull/1) in [khalby786/don8t](https://github.com/khalby786/don8t)
+4. 🗣 Commented on [#23](https://github.com/khalby786/jsoning/issues/23) in [khalby786/jsoning](https://github.com/khalby786/jsoning)
+5. 🗣 Commented on [#22](https://github.com/wh0/snail-cli/issues/22) in [wh0/snail-cli](https://github.com/wh0/snail-cli)
 <!--END_SECTION:activity-->
 
 and here's a graph for people who like graphs: 
