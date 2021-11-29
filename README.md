@@ -66,11 +66,11 @@ and here's a graph for people who like graphs:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 29 mins   ████████████████▒░░░░░░░░   65.38 % 
-Vue.js       1 hr 2 mins     ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-SCSS         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Svelte       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+JavaScript   2 hrs 15 mins   ██████████████▒░░░░░░░░░░   57.47 % 
+Python       53 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.54 % 
+Markdown     28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+JSON         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Vue.js       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 <!--END_SECTION:waka-->
 
