@@ -37,11 +37,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-- 1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
-- 2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-- 3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-- 4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
-- 5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+1. 🗣 Commented on [#37](https://github.com/fosscord/fosscord-landingpage/issues/37) in [fosscord/fosscord-landingpage](https://github.com/fosscord/fosscord-landingpage)
+2. 🗣 Commented on [#37](https://github.com/fosscord/fosscord-landingpage/issues/37) in [fosscord/fosscord-landingpage](https://github.com/fosscord/fosscord-landingpage)
+3. ❌ Closed PR [#3](https://github.com/khalby786/blog/pull/3) in [khalby786/blog](https://github.com/khalby786/blog)
+4. 💪 Opened PR [#385](https://github.com/lucasgdb/useful-dev-tools/pull/385) in [lucasgdb/useful-dev-tools](https://github.com/lucasgdb/useful-dev-tools)
+5. 💪 Opened PR [#1](https://github.com/khalby786/don8t/pull/1) in [khalby786/don8t](https://github.com/khalby786/don8t)
 <!--END_SECTION:activity-->
 
 and here's a graph for people who like graphs: 
