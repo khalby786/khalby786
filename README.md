@@ -17,21 +17,17 @@
 <h3>my latest blog posts</h3>
 
 <!--START_SECTION:feed-->
-* [Vue - The Anime](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;vue-the-anime&#x2F;)
-* [a rectangular image generator has more stars on github than a complicated corruption-less data storing npm package, and i&#39;m embarrassed about it](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;reheader-has-more-stars-than-jsoning&#x2F;)
-* [I rickrolled the Director of Community Engineering at Glitch - twice](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;i-rickrolled-jenn-schiffer&#x2F;)
-* [The Story of My Life (Literally)](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;the-story-of-my-life&#x2F;)
-* [My First VFX Shot in Blender!](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;my-first-vfx-shot-blender&#x2F;)
+...
 <!--END_SECTION:feed-->
 
 <h3>my dev.to posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
-- [Create a custom 404 page for your Vue 2 app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
+- [Create a custom 404 page for your Vue app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
 - [REHeader - GitHub Profile README Header Image Generator](https://dev.to/khalby786/reheader-github-profile-readme-header-image-generator-45pe)
 - [Jsoning - A simple key-value JSON-based persistent lightweight database.✨](https://dev.to/khalby786/jsoning-a-simple-key-value-json-based-persistent-lightweight-database-51c0)
-- [Creating a Markdown Blog with EJS &amp; Express](https://dev.to/khalby786/creating-a-markdown-blog-with-ejs-express-j40)
+- [Creating a Markdown Blog with EJS & Express](https://dev.to/khalby786/creating-a-markdown-blog-with-ejs-express-j40)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>my github activity</h3>
