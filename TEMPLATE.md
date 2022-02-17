@@ -5,8 +5,8 @@
 
 <img src="https://raw.githubusercontent.com/khalby786/khalby786/master/GitHub%20header.png">
 
- - 🔭 I'm currently working on a lot of [side](https://github.com/khalby786/MarkMe) [projects](https://github.com/khalby786/smallurll)!
- - 🌱 I'm currently learning React, Go, OpenGL and cybersecurity
+ - 🔭 I'm currently working on maintaining [jsoning](https://github.com/khalby786/jsoning)!
+ - 🌱 I'm currently learning Rust, TypeScript (again) and other cool stuff!
  - 👯 I'm looking to collaborate on full stack web apps!
  - 🤔 I'm looking for help with Typescript and React
  - 💬 Ask me about Vue, 3D art (including voxel art), donuts and robots
