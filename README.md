@@ -37,11 +37,11 @@
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-- 1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
-- 2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-- 3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
-- 4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
-- 5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+1. ❗️ Opened issue [#5](https://github.com/RiversideRocks/1337git/issues/5) in [RiversideRocks/1337git](https://github.com/RiversideRocks/1337git)
+2. 💪 Opened PR [#11](https://github.com/kognise/overengineering/pull/11) in [kognise/overengineering](https://github.com/kognise/overengineering)
+3. 💪 Opened PR [#10](https://github.com/kognise/overengineering/pull/10) in [kognise/overengineering](https://github.com/kognise/overengineering)
+4. 💪 Opened PR [#462](https://github.com/hackclub/dinosaurs/pull/462) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+5. ❌ Closed PR [#461](https://github.com/hackclub/dinosaurs/pull/461) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
 <!--END_SECTION:activity-->
 
 and here's a graph for people who like graphs: 
