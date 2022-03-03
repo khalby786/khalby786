@@ -17,31 +17,27 @@
 <h3>my latest blog posts</h3>
 
 <!--START_SECTION:feed-->
-* [Vue - The Anime](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;vue-the-anime&#x2F;)
-* [a rectangular image generator has more stars on github than a complicated corruption-less data storing npm package, and i&#39;m embarrassed about it](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;reheader-has-more-stars-than-jsoning&#x2F;)
-* [I rickrolled the Director of Community Engineering at Glitch - twice](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;i-rickrolled-jenn-schiffer&#x2F;)
-* [The Story of My Life (Literally)](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;the-story-of-my-life&#x2F;)
-* [My First VFX Shot in Blender!](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;my-first-vfx-shot-blender&#x2F;)
+...
 <!--END_SECTION:feed-->
 
 <h3>my dev.to posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
-- [Create a custom 404 page for your Vue 2 app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
+- [Create a custom 404 page for your Vue app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
 - [REHeader - GitHub Profile README Header Image Generator](https://dev.to/khalby786/reheader-github-profile-readme-header-image-generator-45pe)
 - [Jsoning - A simple key-value JSON-based persistent lightweight database.✨](https://dev.to/khalby786/jsoning-a-simple-key-value-json-based-persistent-lightweight-database-51c0)
-- [Creating a Markdown Blog with EJS &amp; Express](https://dev.to/khalby786/creating-a-markdown-blog-with-ejs-express-j40)
+- [Creating a Markdown Blog with EJS & Express](https://dev.to/khalby786/creating-a-markdown-blog-with-ejs-express-j40)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>my github activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/khalby786/personal-website/pull/15) in [khalby786/personal-website](https://github.com/khalby786/personal-website)
-2. ❗️ Opened issue [#5](https://github.com/RiversideRocks/1337git/issues/5) in [RiversideRocks/1337git](https://github.com/RiversideRocks/1337git)
-3. 💪 Opened PR [#11](https://github.com/kognise/overengineering/pull/11) in [kognise/overengineering](https://github.com/kognise/overengineering)
-4. 💪 Opened PR [#10](https://github.com/kognise/overengineering/pull/10) in [kognise/overengineering](https://github.com/kognise/overengineering)
-5. 💪 Opened PR [#462](https://github.com/hackclub/dinosaurs/pull/462) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+- 1. 💪 Opened PR [#3](https://github.com//tinkerhub-org/triviator/pull/3) in [tinkerhub-org/triviator](https://github.com//tinkerhub-org/triviator)
+- 2. ❗️ Closed issue [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+- 3. 🗣 Commented on [#6](https://github.com//khalby786/TheRadBot/issues/6) in [khalby786/TheRadBot](https://github.com//khalby786/TheRadBot)
+- 4. 🎉 Merged PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
+- 5. 💪 Opened PR [#9](https://github.com//khalby786/getxkcd/pull/9) in [khalby786/getxkcd](https://github.com//khalby786/getxkcd)
 <!--END_SECTION:activity-->
 
 and here's a graph for people who like graphs: 
@@ -54,7 +50,7 @@ and here's a graph for people who like graphs:
 {
   "joined": "3 years ago",
   "repos": "57",
-  "repos_contributed_to": "20",
+  "repos_contributed_to": "19",
   "commits": "1726",
   "stars": "359",
   "issues": "26",
@@ -65,14 +61,13 @@ and here's a graph for people who like graphs:
 <h3>my weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
-
 ```text
-JSON         11 mins         █████████████▒░░░░░░░░░░░   53.80 %
-JavaScript   6 mins          ████████░░░░░░░░░░░░░░░░░   32.04 %
-CSS          2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-Astro        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript   2 hrs 29 mins   ████████████████▒░░░░░░░░   65.38 % 
+Vue.js       1 hr 2 mins     ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+SCSS         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Svelte       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
-
 <!--END_SECTION:waka-->
 
 <br><br>
