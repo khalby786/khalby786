@@ -65,13 +65,16 @@ and here's a graph for people who like graphs:
 <h3>my weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   2 hrs 29 mins   ████████████████▒░░░░░░░░   65.38 % 
-Vue.js       1 hr 2 mins     ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-SCSS         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Svelte       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+HTML         51 mins         ████████▓░░░░░░░░░░░░░░░░   34.23 %
+TypeScript   43 mins         ███████▒░░░░░░░░░░░░░░░░░   28.88 %
+CSS          20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
+JavaScript   16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+JSON         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+Bash         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
 ```
+
 <!--END_SECTION:waka-->
 
 <br><br>
