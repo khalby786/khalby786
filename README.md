@@ -1,20 +1,32 @@
+```
+ __      __  ______  ____    ____    __  __  ____
+/\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
+\ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
+ \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
+  \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
+   \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
+    '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
 
-<h1>hi human! :wave:</h1>
+```
 
-<h3>who am i?</h3>
+<br />
 
-<img src="https://raw.githubusercontent.com/khalby786/khalby786/master/GitHub%20header.png">
-
+``` 
  - 🔭 I'm currently working on maintaining [jsoning](https://github.com/khalby786/jsoning)!
  - 🌱 I'm currently learning Rust, TypeScript (again) and other cool stuff!
  - 👯 I'm looking to collaborate on full stack web apps!
  - 🤔 I'm looking for help with Typescript and React
  - 💬 Ask me about Vue, 3D art (including voxel art), donuts and robots
- - 📫 How to reach me: [discord](https://discord.bio/p/khalby786) or [social](#social)
+ - 📫 How to reach me: [discord](https://discord.com/users/634701839983706112) or [other](https://www.khaleelgibran.com/#socials)
  - 😄 Pronouns: he/him
- - ⚡ Fun fact: I have a [tumblr blog](https://art.khaleelgibran.com) filled with my artwork!
+ - ⚡ Fun fact: [object Object]
+```
 
-<h3>my latest blog posts</h3>
+<br />
+
+```
+## stuff from mah blog
+```
 
 <!--START_SECTION:feed-->
 * [Vue - The Anime](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;vue-the-anime&#x2F;)
@@ -24,7 +36,11 @@
 * [My First VFX Shot in Blender!](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;my-first-vfx-shot-blender&#x2F;)
 <!--END_SECTION:feed-->
 
-<h3>my dev.to posts</h3>
+<br />
+
+```
+## stuff i posted on dev.to
+```
 
 <!-- BLOG-POST-LIST:START -->
 - [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
@@ -34,35 +50,11 @@
 - [Creating a Markdown Blog with EJS &amp; Express](https://dev.to/khalby786/creating-a-markdown-blog-with-ejs-express-j40)
 <!-- BLOG-POST-LIST:END -->
 
-<h3>my github activity</h3>
+<br />
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/khalby786/personal-website/pull/15) in [khalby786/personal-website](https://github.com/khalby786/personal-website)
-2. ❗️ Opened issue [#5](https://github.com/RiversideRocks/1337git/issues/5) in [RiversideRocks/1337git](https://github.com/RiversideRocks/1337git)
-3. 💪 Opened PR [#11](https://github.com/kognise/overengineering/pull/11) in [kognise/overengineering](https://github.com/kognise/overengineering)
-4. 💪 Opened PR [#10](https://github.com/kognise/overengineering/pull/10) in [kognise/overengineering](https://github.com/kognise/overengineering)
-5. 💪 Opened PR [#462](https://github.com/hackclub/dinosaurs/pull/462) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-<!--END_SECTION:activity-->
-
-and here's a graph for people who like graphs: 
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=khalby786&theme=github)
-
-<h3>my wonderful stats</h3>
-
-```json
-{
-  "joined": "3 years ago",
-  "repos": "57",
-  "repos_contributed_to": "17",
-  "commits": "1726",
-  "stars": "363",
-  "issues": "26",
-  "pull_requests": "127"
-}
 ```
-
-<h3>my weekly development breakdown</h3>
+## my weekly development breakdown
+```
 
 <!--START_SECTION:waka-->
 
@@ -77,8 +69,6 @@ Bash         7 mins          █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<br><br>
+<br />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khalby786&column=7&theme=onedark" />
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=khalby786&theme=nord&no-frame=true&margin-w=10&column=7" />
