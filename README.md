@@ -17,7 +17,9 @@
  - 👯 I'm looking to collaborate on full stack web apps!
  - 🤔 I'm looking for help with Typescript and React
  - 💬 Ask me about Vue, 3D art (including voxel art), donuts and robots
- - 📫 How to reach me: [discord](https://discord.com/users/634701839983706112) or [other](https://www.khaleelgibran.com/#socials)
+ - 📫 How to reach me: 
+      - [discord](https://discord.com/users/634701839983706112)  
+      - [other](https://www.khaleelgibran.com/#socials)
  - 😄 Pronouns: he/him
  - ⚡ Fun fact: [object Object]
 ```
