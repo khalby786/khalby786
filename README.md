@@ -11,8 +11,8 @@
 
 <br />
 
-``` 
- - 🔭 I'm currently working on maintaining [jsoning](https://github.com/khalby786/jsoning)!
+ 
+ - 🔭 I'm currently working on maintaining [jsoning](https://github.com/khalby786/jsoning)
  - 🌱 I'm currently learning Rust, TypeScript (again) and other cool stuff!
  - 👯 I'm looking to collaborate on full stack web apps!
  - 🤔 I'm looking for help with Typescript and React
@@ -22,7 +22,7 @@
       - [other](https://www.khaleelgibran.com/#socials)
  - 😄 Pronouns: he/him
  - ⚡ Fun fact: [object Object]
-```
+
 
 <br />
 
