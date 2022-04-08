@@ -9,26 +9,44 @@
 
 ```
 
+---
+
+
+<h3 align="center">
+ Welcome to Khalleel Gibran's Profile 👋
+</h3>
+
+
+
 <br />
 
-``` 
+ 
+
  - 🔭 I'm currently working on maintaining [jsoning](https://github.com/khalby786/jsoning)!
  - 🌱 I'm currently learning Rust, TypeScript (again) and other cool stuff!
  - 👯 I'm looking to collaborate on full stack web apps!
  - 🤔 I'm looking for help with Typescript and React
  - 💬 Ask me about Vue, 3D art (including voxel art), donuts and robots
- - 📫 How to reach me: 
-      - [discord](https://discord.com/users/634701839983706112)  
-      - [other](https://www.khaleelgibran.com/#socials)
  - 😄 Pronouns: he/him
  - ⚡ Fun fact: [object Object]
-```
+
+--- 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/khaleel gibran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="khaleel gibran" height="30" width="40" /></a>
+<a href="https://twitter.com/khalby786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khalby786" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/users/634701839983706112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/634701839983706112" height="30" width="40" /></a>
+<a href="/https://blog.khaleelgibran.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.khaleelgibran.com/" height="30" width="40" /></a>
+</p>
+
+---
+
 
 <br />
 
-```
-## stuff from mah blog
-```
+## My Latest Blog 🎯
+
 
 <!--START_SECTION:feed-->
 * [Vue - The Anime](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;vue-the-anime&#x2F;)
@@ -38,11 +56,9 @@
 * [My First VFX Shot in Blender!](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;my-first-vfx-shot-blender&#x2F;)
 <!--END_SECTION:feed-->
 
-<br />
+---
 
-```
-## stuff i posted on dev.to
-```
+## Latest Post On Dev.to 💻
 
 <!-- BLOG-POST-LIST:START -->
 - [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
@@ -52,11 +68,11 @@
 - [Creating a Markdown Blog with EJS &amp; Express](https://dev.to/khalby786/creating-a-markdown-blog-with-ejs-express-j40)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
 
-```
-## my weekly development breakdown
-```
+---
+
+
+## My Devalopment Status ⌨️
 
 <!--START_SECTION:waka-->
 
@@ -71,3 +87,11 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 <br />
 
 <img src="https://github-profile-trophy.vercel.app/?username=khalby786&theme=nord&no-frame=true&margin-w=10&column=7" />
+
+
+----
+
+
+<footer>
+<br />This Readme Profile is made by Khaleel Gibran and His Friends </a>
+</footer>
