@@ -61,7 +61,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java       1 hr 47 mins    █████████████████████░░░░   83.68 %
+Markdown   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+CSS        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+HTML       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
