@@ -61,7 +61,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   1 hr 26 mins    █████████████▓░░░░░░░░░░░   54.51 %
+Vue.js       22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
+Bash         17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
+Svelte       16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+JSON         11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Astro        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
