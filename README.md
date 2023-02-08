@@ -61,10 +61,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       11 mins         █████████████░░░░░░░░░░░░   52.12 %
-JavaScript   10 mins         ███████████▒░░░░░░░░░░░░░   45.56 %
-AutoHotkey   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Vue.js       11 mins         ████████████▒░░░░░░░░░░░░   49.59 %
+JavaScript   11 mins         ████████████░░░░░░░░░░░░░   48.21 %
+AutoHotkey   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
