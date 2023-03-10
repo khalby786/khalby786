@@ -61,8 +61,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Astro    2 mins          ████████████████████████▓   98.66 %
-Vue.js   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
