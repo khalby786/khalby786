@@ -26,9 +26,8 @@
 
 <br />
 
-```
+
 ## stuff from mah blog
-```
 
 <!--START_SECTION:feed-->
 * [Vue - The Anime](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;vue-the-anime&#x2F;)
@@ -40,9 +39,7 @@
 
 <br />
 
-```
 ## stuff i posted on dev.to
-```
 
 <!-- BLOG-POST-LIST:START -->
 - [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
@@ -54,9 +51,7 @@
 
 <br />
 
-```
 ## my weekly development breakdown
-```
 
 <!--START_SECTION:waka-->
 
