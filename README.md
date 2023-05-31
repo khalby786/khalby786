@@ -56,7 +56,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   10 mins         █████████████████░░░░░░░░   68.61 %
+HTML     3 mins          █████░░░░░░░░░░░░░░░░░░░░   20.05 %
+PHP      1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+Other    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+SQL      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
