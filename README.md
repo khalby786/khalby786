@@ -56,10 +56,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python         2 hrs 19 mins   █████████████████████████   99.84 %
-CBM BASIC V2   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Ezhil          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
