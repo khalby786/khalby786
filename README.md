@@ -56,7 +56,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 secs          █████████████████████████   100.00 %
+Python   0 secs          ███████████████████▒░░░░░   77.07 %
+Vue.js   0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
 ```
 
 <!--END_SECTION:waka-->
