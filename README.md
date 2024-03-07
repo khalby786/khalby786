@@ -32,9 +32,9 @@
 <!--START_SECTION:feed-->
 * [Go on Vercel&#39;s Serverless Functions](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;go-serverless-vercel&#x2F;)
 * [How I made a Flutter app to get a video game item (and other stories from this year)](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;2023-year-in-review&#x2F;)
+* [Vue (v3) Learning Path](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;vue-learning-path&#x2F;)
 * [Vue - The Anime](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;vue-the-anime&#x2F;)
 * [a rectangular image generator has more stars on github than a complicated corruption-less data storing npm package, and i&#39;m embarrassed about it](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;reheader-has-more-stars-than-jsoning&#x2F;)
-* [My First VFX Shot in Blender!](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;my-first-vfx-shot-blender&#x2F;)
 <!--END_SECTION:feed-->
 
 <br />
