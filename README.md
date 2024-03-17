@@ -1,4 +1,4 @@
-```
+<!-- ```
  __      __  ______  ____    ____    __  __  ____
 /\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
 \ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
@@ -7,27 +7,27 @@
    \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
     '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
 
-```
+``` -->
+
+![418](https://github.com/khalby786/khalby786/assets/38468163/5ec994a6-2771-40f5-803c-7f8dab2209d6)
+
 
 <br />
 
-``` 
- - 🔭 I'm currently working on maintaining [jsoning](https://github.com/khalby786/jsoning)!
- - 🌱 I'm currently learning Rust, TypeScript (again) and other cool stuff!
- - 👯 I'm looking to collaborate on full stack web apps!
- - 🤔 I'm looking for help with Typescript and React
+ - 🔭 I'm currently working on maintaining nothing. Hmu if you think I can maintain something.
+ - 🌱 I'm currently learning Go and React!
+ - 👯 I'm looking to collaborate on anything as long as you're cool
+ - 🤔 I'm looking for help with finding my last brain cell
  - 💬 Ask me about Vue, 3D art (including voxel art), donuts and robots
  - 📫 How to reach me: 
-      - [discord](https://discord.com/users/634701839983706112)  
-      - [other](https://www.khaleelgibran.com/#socials)
+      - [mastodon](https://social.dino.icu/@thepixelatedonut)  
  - 😄 Pronouns: he/him
  - ⚡ Fun fact: [object Object]
-```
 
 <br />
 
 
-## stuff from mah blog
+## stuff from my web-log
 
 <!--START_SECTION:feed-->
 * [Go on Vercel&#39;s Serverless Functions](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;go-serverless-vercel&#x2F;)
