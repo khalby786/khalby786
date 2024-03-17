@@ -14,7 +14,7 @@
 
 <br />
 
- - 🔭 I'm currently working on maintaining nothing. Hmu if you think I can maintain something.
+ - 🔭 I'm currently working on something top secret 
  - 🌱 I'm currently learning Go and React!
  - 👯 I'm looking to collaborate on anything as long as you're cool
  - 🤔 I'm looking for help with finding my last brain cell
