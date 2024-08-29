@@ -9,25 +9,12 @@
 
 ``` -->
 
-![418](https://http.cat/418)
-
-
-<br />
-
- - 🔭 I'm currently working on something top secret 
- - 🌱 I'm currently learning Go and React!
- - 👯 I'm looking to collaborate on anything as long as you're cool
- - 🤔 I'm looking for help with finding my last brain cell
- - 💬 Ask me about Vue, 3D art (including voxel art), donuts and robots
- - 📫 How to reach me: 
-      - [mastodon](https://social.dino.icu/@thepixelatedonut)  
- - 😄 Pronouns: he/him
- - ⚡ Fun fact: [object Object]
+<img width="957" alt="kayo-chan" src="https://github.com/user-attachments/assets/f423798c-1161-4c3b-b4c0-199e6d62c024">
 
 <br />
 
 
-## stuff from my web-log
+#### Read the latest posts from my [blog](https://blog.khaleelgibran.com)
 
 <!--START_SECTION:feed-->
 * [你好, my LED strip is sending data to China](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;led-light-to-china&#x2F;)
@@ -39,7 +26,7 @@
 
 <br />
 
-## stuff i posted on dev.to
+#### Or check out cool stuff from dev.to!
 
 <!-- BLOG-POST-LIST:START -->
 - [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
@@ -51,7 +38,7 @@
 
 <br />
 
-## my weekly development breakdown
+#### my weekly development breakdown
 
 <!--START_SECTION:waka-->
 
