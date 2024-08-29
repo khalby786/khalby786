@@ -11,7 +11,9 @@
 
 <img width="957" alt="kayo-chan" src="https://github.com/user-attachments/assets/f423798c-1161-4c3b-b4c0-199e6d62c024">
 
-<br />
+<p align="center"><i>(drawing by me)</i></p>
+
+<br /> <br />
 
 
 #### Read the latest posts from my [blog](https://blog.khaleelgibran.com)
@@ -38,7 +40,7 @@
 
 <br />
 
-#### my weekly development breakdown
+#### My weekly development breakdown
 
 <!--START_SECTION:waka-->
 
@@ -54,4 +56,6 @@ TSConfig     0 secs          ░░░░░░░░░░░░░░░░░
 
 <br />
 
+<details><summary>Kewl badges</summary>
 <img src="https://github-profile-trophy.vercel.app/?username=khalby786&theme=nord&no-frame=true&margin-w=10&column=10" />
+</details>
