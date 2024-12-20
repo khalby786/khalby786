@@ -19,11 +19,11 @@
 #### Read the latest posts from my [blog](https://blog.khaleelgibran.com)
 
 <!--START_SECTION:feed-->
+* [I made a Figma plugin and it was harder than I expected](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;chromakey&#x2F;)
 * [My greatest contribution to open-source, yet.](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;greatest-oss-contribution&#x2F;)
 * [你好, my LED strip is sending data to China](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;led-light-to-china&#x2F;)
 * [Go on Vercel&#39;s Serverless Functions](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;go-serverless-vercel&#x2F;)
 * [How I made a Flutter app to get a video game item (and other stories from this year)](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;2023-year-in-review&#x2F;)
-* [Vue (v3) Learning Path](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;vue-learning-path&#x2F;)
 <!--END_SECTION:feed-->
 
 <br />
