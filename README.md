@@ -45,10 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           13 mins               ███████████████▓░░░░░░░░░   62.69 %
-jsonc        5 mins                ██████▓░░░░░░░░░░░░░░░░░░   26.87 %
-JavaScript   2 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
