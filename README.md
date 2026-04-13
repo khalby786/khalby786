@@ -19,7 +19,7 @@
 #### Read the latest posts from my [blog](https://blog.khaleelgibran.com)
 
 <!--START_SECTION:feed-->
-* [Notion test in prod](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;notion&#x2F;)
+* [Who runs the Arch Linux mirror in the UAE?](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;arch-mirror-uae&#x2F;)
 * [I made a Figma plugin and it was harder than I expected](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;chromakey&#x2F;)
 * [My greatest contribution to open-source, yet.](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;greatest-oss-contribution&#x2F;)
 * [你好, my LED strip is sending data to China](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;led-light-to-china&#x2F;)
