@@ -45,7 +45,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Image (svg)   39 mins               █████████████▓░░░░░░░░░░░   54.40 %
+Astro         33 mins               ███████████▒░░░░░░░░░░░░░   45.60 %
 ```
 
 <!--END_SECTION:waka-->
